@@ -17,9 +17,9 @@ string html = XlsxToHtmlConverter.Converter.ConvertXlsx(xlsxFileName);
 
 ## Commercial Samples
 
-#### Otpos PDF Editor
-
-[![Fivicon](http://pdf-editor.otpos.com/content/img/favicon.png)](http://pdf-editor.otpos.com/)
+|Otpos PDF Editor|
+|    :--------:   |
+|[![Fivicon](http://pdf-editor.otpos.com/content/img/favicon.png)](http://pdf-editor.otpos.com/)|
 
 ## License
 
