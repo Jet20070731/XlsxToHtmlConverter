@@ -1,6 +1,20 @@
 # XlsxToHtmlConverter
 
-A xlsx to html file converter. Support fill, font, border, alignment and other styles. Support custom column width and row height. Support vertical and/or horizontal merged cells. It uses .Net Core 3.0 as framework and only depends on the Open Xml SDK.
+[![Target Framework](https://img.shields.io/badge/%2ENet%20Core-3.0-green.svg)](https://docs.microsoft.com/en-us/dotnet/core/about)
+[![Lincense](https://img.shields.io/badge/Lincense-MIT-orange.svg)](https://docs.microsoft.com/en-us/dotnet/core/about)
+
+> A xlsx to html file converter. Support cell fill, font, border, alignment and other styles. Support custom column width and row height. Support vertical and/or horizontal merged cells. It uses .Net Core 3.0 as framework and only depends on the Open Xml SDK.
+
+## Dependencies
+
+**.Net Core** >= 3.0  
+**DocumentFormat.OpenXml** = 2.10.1
+
+## Main Features
+
+- [x] Cell fill, font, border, alignment, and other styles
+- [x] Custom column width and row height
+- [x] Vertical and/or horizontal merged cells
 
 ## Dependencies
 
